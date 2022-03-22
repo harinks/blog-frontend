@@ -1,0 +1,11 @@
+.signup__bg{
+    background-image: url('../images/register.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+
+.signup__form{
+    width: 100%;
+    margin: 0 auto;
+}
